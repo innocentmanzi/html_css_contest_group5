@@ -1,8 +1,8 @@
 <h1>HTML/CSS CONTEST</h1>
 
-<h2> Group Members: </h2>
-
 <h3> This is Web-designing project assignment </h3>
+
+<h2> Group Members: </h2>
 
 1. [Prince Iranzi](https://github.com/iranziprince01)
 
