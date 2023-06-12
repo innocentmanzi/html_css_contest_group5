@@ -12,7 +12,7 @@
 
 4. [Innocent Manzi](https://github.com/innocentmanzi)
 
-5. [Nshimiyimana Rukundo](https://github.com/rukundo0023)
+5. [Rukundo Nshimiyimana](https://github.com/rukundo0023)
 
 6. [Vincent Twizere](https://github.com/vincenttwizere)
 
