@@ -582,3 +582,8 @@ border-radius:50%;
     max-width: 1000px;
     margin-left: 50px;
 }
+.logo-icon img{
+    height: 50px;
+    width: 50px;
+    filter: grayscale(100%); /* Convert the images to grayscale */
+}
